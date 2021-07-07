@@ -1,0 +1,11 @@
+C:\Users\Gavin Tse\Documents\GitHub\tdd-bank-accounts-GavinTseYinWang\BankAccounts\bin\Debug\BankAccounts.exe.config
+C:\Users\Gavin Tse\Documents\GitHub\tdd-bank-accounts-GavinTseYinWang\BankAccounts\bin\Debug\BankAccounts.exe
+C:\Users\Gavin Tse\Documents\GitHub\tdd-bank-accounts-GavinTseYinWang\BankAccounts\bin\Debug\BankAccounts.pdb
+C:\Users\Gavin Tse\Documents\GitHub\tdd-bank-accounts-GavinTseYinWang\BankAccounts\bin\Debug\BankAccounts.xml
+C:\Users\Gavin Tse\Documents\GitHub\tdd-bank-accounts-GavinTseYinWang\BankAccounts\obj\Debug\BankAccounts.vbprojAssemblyReference.cache
+C:\Users\Gavin Tse\Documents\GitHub\tdd-bank-accounts-GavinTseYinWang\BankAccounts\obj\Debug\BankAccounts.Resources.resources
+C:\Users\Gavin Tse\Documents\GitHub\tdd-bank-accounts-GavinTseYinWang\BankAccounts\obj\Debug\BankAccounts.vbproj.GenerateResource.cache
+C:\Users\Gavin Tse\Documents\GitHub\tdd-bank-accounts-GavinTseYinWang\BankAccounts\obj\Debug\BankAccounts.vbproj.CoreCompileInputs.cache
+C:\Users\Gavin Tse\Documents\GitHub\tdd-bank-accounts-GavinTseYinWang\BankAccounts\obj\Debug\BankAccounts.exe
+C:\Users\Gavin Tse\Documents\GitHub\tdd-bank-accounts-GavinTseYinWang\BankAccounts\obj\Debug\BankAccounts.xml
+C:\Users\Gavin Tse\Documents\GitHub\tdd-bank-accounts-GavinTseYinWang\BankAccounts\obj\Debug\BankAccounts.pdb
